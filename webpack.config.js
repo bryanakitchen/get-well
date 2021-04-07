@@ -62,18 +62,18 @@ module.exports = {
               importLoaders: 1
             }
           },
-          {
-            loader: 'postcss-loader',
-            options: {
-              sourceMap: true,
-              plugins: [
-                require('postcss-import')(),
-                require('autoprefixer')(),
-                require('postcss-nested')(),
-                require('postcss-simple-vars')()
-              ]
-            }
-          }
+          // {
+          //   loader: 'postcss-loader',
+          //   options: {
+          //     sourceMap: true,
+          //     plugins: [
+          //       require('postcss-import')(),
+          //       require('autoprefixer')(),
+          //       require('postcss-nested')(),
+          //       // require('postcss-simple-vars')()
+          //     ]
+          //   }
+          // }
         ],
         include: /\.module\.css$/
       },
@@ -82,18 +82,18 @@ module.exports = {
         use: [
           'style-loader',
           'css-loader',
-          {
-            loader: 'postcss-loader',
-            options: {
-              sourceMap: true,
-              plugins: [
-                require('postcss-import')(),
-                require('autoprefixer')(),
-                require('postcss-nested')(),
-                require('postcss-simple-vars')()
-              ]
-            }
-          }
+          // {
+          //   loader: 'postcss-loader',
+          //   options: {
+          //     sourceMap: true,
+          //     plugins: [
+          //       require('postcss-import')(),
+          //       require('autoprefixer')(),
+          //       require('postcss-nested')(),
+          //       // require('postcss-simple-vars')()
+          //     ]
+          //   }
+          // }
         ],
         exclude: /\.module\.css$/
       },

@@ -1,0 +1,28 @@
+body, .root {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+.message {
+    color: blue;
+    border: black solid 1px;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 0px 10px;
+}
