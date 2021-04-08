@@ -43,12 +43,9 @@ export default class App extends Component {
             </p>
           </div>
           <div className={styles.messageLeft} data-aos="fade-right">
-            <h3>From: (name)</h3>
+            <h3>From: Perry Sittser</h3>
             <p>
-              Message goes here
-            </p>
-            <p>
-              optional signature
+              To Whitney: Get well soon!
             </p>
           </div>
           <div className={styles.messageRight} data-aos="fade-left">

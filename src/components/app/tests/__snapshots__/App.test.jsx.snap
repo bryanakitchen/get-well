@@ -68,13 +68,10 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
-          From: (name)
+          From: Perry Sittser
         </h3>
         <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
+          To Whitney: Get well soon!
         </p>
       </div>
       <div
