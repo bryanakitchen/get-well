@@ -21,48 +21,59 @@ export default class App extends Component {
           </div>
           <div className={styles.description}>
             <p>Whitney, you've been on our minds. We wanted to send you some smiles and encouragement to get you through this difficult time.</p>
-
-            <p>Why do we use it?
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-          </p>
           </div>
         </div>
         <div className={styles.messagesContainer}>
           <div className={styles.messageLeft} data-aos="fade-right" data-aos-anchor=".other-element">
-            <h3>From: (name)</h3>
+            <h3>From: Brooke Perkins</h3>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-          </p>
+              We're here for you, Whitney! Looking forward to a time when this year and all its nastiness is firmly behind us and we can celebrate your new house and our new shared community together! Rest up and take care, let us know if we can do anything for you.
+            </p>
+            <p>
+              xxo Brooke
+            </p>
+          </div>
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Bryana Kitchen</h3>
+            <p>
+              Hey Whitney, I've been thinking about you.  We miss your beautiful smile around Alchemy and can't wait for your return. But don't rush back - get the rest you need to heal! I pray you find encouragement and strength each day. Please let us know if there's anything we can do for you.
+            </p>
+            <p>
+              With Love, Bryana
+            </p>
+          </div>
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Perry Sittser</h3>
+            <p>
+              To Whitney: Get well soon!
+            </p>
           </div>
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-          </p>
+              Message goes here
+            </p>
+            <p>
+              optional signature
+            </p>
           </div>
           <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-          </p>
+              Message goes here
+            </p>
+            <p>
+              optional signature
+            </p>
           </div>
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-          </p>
-          </div>
-          <div className={styles.messageLeft} data-aos="fade-right">
-            <h3>From: (name)</h3>
+              Message goes here
+            </p>
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-          </p>
-          </div>
-          <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: (name)</h3>
-            <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-          </p>
+              optional signature
+            </p>
           </div>
         </div>
       </div>
