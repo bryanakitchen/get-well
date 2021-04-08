@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 body, .root {
     width: 100%;
     height: 100%;
@@ -9,6 +11,8 @@ body, .root {
     justify-content: center;
     align-items: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: radial-gradient(circle at 50% 50%, #d5ece3, #c3e4d7, #97d0ba, #5eb694, #3c8469, #285846, #204638);
+    color: #162721;
 }
 
 .home {
@@ -18,30 +22,75 @@ body, .root {
     align-items: center;
     width: 80%;
     margin-top: 30px;
+    background: radial-gradient(circle at 50% 50%, #d5ece3, #e2f3ed);
+    border-radius: 10px;
+    border: 2px outset #204638;
+    box-shadow: 0px 0px 5px 1px black;
 }
 
-.message {
-    color: blue;
-    border: black solid 1px;
+.alchemyLogo {
+    height: 4em;
+    margin-top: 2em;
+}
+
+.title {
+    margin: .5em 0 .5em 0;
+    font-size: 3.2em;
+    font-weight: bold;
+    font-family: 'Kaushan Script', cursive;
+    letter-spacing: .04em;
+}
+
+.description {
+    padding: 2em 5em 2em 5em;
+    width: 60%;
+    text-align: center;
+}
+
+.messagesContainer {
+    width: 70%;
+    margin-top: 2em;
+}
+
+.messageLeft {
+    float: left;
+    color: #162721;
+    border: 2px outset #204638;
     border-radius: 6px;
-    margin: 10px;
+    margin: 40px 0 70px 0;
     padding: 0px 10px;
+    width: 40%;
+    background: radial-gradient(circle at 50% 50%, #d5ece3, #e2f3ed);
+    box-shadow: 0px 0px 3px 1px black;
+}
+
+.messageRight {
+    float: right;
+    color: #162721;
+    border: 2px outset #204638;
+    border-radius: 6px;
+    margin: 80px 0 30px 0;
+    padding: 0px 10px;
+    width: 40%;
+    background: radial-gradient(circle at 50% 50%, #d5ece3, #e2f3ed);
+    box-shadow: 0px 0px 3px 1px black;
 }
 
 .frame {
-    width: 20em;
+    width: 15em;
     height: auto;
-    border: 3px solid #ccc;
+    border: 5px outset #204638;
     border-radius: 10px;
-    background: white;
-    margin: auto;
+    background: #D5ECE3;
+    margin: 1em;
     padding: 15px 15px;
-    box-shadow: 0px 0px 5px 2px gray;
+    box-shadow: 0px 0px 6px 1px black;
 }
 
 .whitneyImage {
     width: 100%;
     height: 100%;
+    border: 2px solid #204638;
     border-radius: 10px;
-    box-shadow: 0px 0px 5px 1px gray;
+    box-shadow: 0px 0px 5px 1px black;
 }
