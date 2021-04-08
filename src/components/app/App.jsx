@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import styles from './App.module.css';
+import whitney from '../../../public/whitney.jpeg'
+import Header from '../header/Header';
 
 AOS.init({ duration: 800 })
 
@@ -10,8 +12,12 @@ export default class App extends Component {
   render() {
     return (
       <div className={styles.root}>
-        <div data-aos="fade-up" className={styles.home}>
+        <Header />
+        <div data-aos="fade-down" className={styles.home}>
           <h1>Thinking of You</h1>
+          <div className={styles.frame}>
+            <img className={styles.whitneyImage} src={whitney} alt='whitney' />
+          </div>
           <p>Whitney, you've been on our minds. We wanted to send you some smiles and encouragement to get you through this difficult time.</p>
 
           <p>Why do we use it?
