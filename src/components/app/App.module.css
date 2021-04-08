@@ -17,6 +17,7 @@ body, .root {
     justify-content: center;
     align-items: center;
     width: 80%;
+    margin-top: 30px;
 }
 
 .message {
