@@ -23,6 +23,7 @@ export default class App extends Component {
             <p>Whitney, you've been on our minds. We wanted to send you some smiles and encouragement to get you through this difficult time.</p>
           </div>
         </div>
+
         <div className={styles.messagesContainer}>
           <div className={styles.messageLeft} data-aos="fade-right" data-aos-anchor=".other-element">
             <h3>From: Brooke Perkins</h3>
@@ -33,6 +34,7 @@ export default class App extends Component {
               xxo Brooke
             </p>
           </div>
+
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: Bryana Kitchen</h3>
             <p>
@@ -42,23 +44,37 @@ export default class App extends Component {
               With Love, Bryana
             </p>
           </div>
+
           <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: Perry Sittser</h3>
             <p>
               To Whitney: Get well soon!
             </p>
           </div>
+
           <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: (name)</h3>
+            <h3>From: Shannon Rasimas</h3>
             <p>
-              Message goes here
+              Whitney, Sending you lots of love, hugs, and good vibes for a speedy recovery! Please take good care of you and always let me know if there's anything I can do to help. Seriously...please let me know!
             </p>
             <p>
-              optional signature
+              Hugs and love, Shannon
             </p>
           </div>
+
           <div className={styles.messageLeft} data-aos="fade-right">
-            <h3>From: (name)</h3>
+            <h3>From: Marty Nelson</h3>
+            <p>
+              Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
+            </p>
+          </div>
+          <div className={styles.messageCenter} data-aos="fade-left">
+            <h3>From: Katie Perry</h3>
+            <img src='../../../whitney-card.png' alt="card for Whitney" className={styles.card} />
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: (hello)</h3>
             <p>
               Message goes here
             </p>
@@ -66,6 +82,7 @@ export default class App extends Component {
               optional signature
             </p>
           </div>
+
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>

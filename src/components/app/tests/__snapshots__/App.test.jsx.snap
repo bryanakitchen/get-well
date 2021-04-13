@@ -79,13 +79,13 @@ exports[`App component renders App 1`] = `
         data-aos="fade-left"
       >
         <h3>
-          From: (name)
+          From: Shannon Rasimas
         </h3>
         <p>
-          Message goes here
+          Whitney, Sending you lots of love, hugs, and good vibes for a speedy recovery! Please take good care of you and always let me know if there's anything I can do to help. Seriously...please let me know!
         </p>
         <p>
-          optional signature
+          Hugs and love, Shannon
         </p>
       </div>
       <div
@@ -93,7 +93,31 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
-          From: (name)
+          From: Marty Nelson
+        </h3>
+        <p>
+          Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
+        </p>
+      </div>
+      <div
+        class="messageCenter"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Katie Perry
+        </h3>
+        <img
+          alt="card for Whitney"
+          class="card"
+          src="../../../whitney-card.png"
+        />
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: (hello)
         </h3>
         <p>
           Message goes here

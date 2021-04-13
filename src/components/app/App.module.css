@@ -76,6 +76,18 @@ body, .root {
     box-shadow: 0px 0px 3px 1px black;
 }
 
+.messageCenter {
+    float: right;
+    color: #162721;
+    border: 2px outset #204638;
+    border-radius: 6px;
+    margin: 30px 0 10px 0;
+    padding: 0px 10px;
+    width: 80%;
+    background: radial-gradient(circle at 50% 50%, #d5ece3, #e2f3ed);
+    box-shadow: 0px 0px 3px 1px black;
+}
+
 .frame {
     width: 15em;
     height: auto;
@@ -93,4 +105,8 @@ body, .root {
     border: 2px solid #204638;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 1px black;
+}
+
+.card {
+    width: 100%;
 }
