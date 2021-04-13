@@ -100,7 +100,7 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
-        class="messageRight"
+        class="messageCenter"
         data-aos="fade-left"
       >
         <h3>
@@ -118,20 +118,6 @@ exports[`App component renders App 1`] = `
       >
         <h3>
           From: (hello)
-        </h3>
-        <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
-        </p>
-      </div>
-      <div
-        class="messageLeft"
-        data-aos="fade-right"
-      >
-        <h3>
-          From: (name)
         </h3>
         <p>
           Message goes here
