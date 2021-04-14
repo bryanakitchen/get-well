@@ -78,6 +78,13 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Jena Boehm</h3>
+            <p>
+              Whitney, we're rooting for you! I truly appreciate everything you do for Alchemy and the community. I'm wishing you a speedy and safe recovery, and am looking forward to seeing you around again. Rest well and take care of yourself!
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-right">
             <h3>From: Marty Nelson</h3>
             <p>
               Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
