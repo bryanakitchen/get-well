@@ -77,7 +77,7 @@ body, .root {
 }
 
 .messageCenter {
-    float: right;
+    float: left;
     color: #162721;
     border: 2px outset #204638;
     border-radius: 6px;

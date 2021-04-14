@@ -89,17 +89,6 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
-        class="messageLeft"
-        data-aos="fade-right"
-      >
-        <h3>
-          From: Marty Nelson
-        </h3>
-        <p>
-          Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
-        </p>
-      </div>
-      <div
         class="messageCenter"
         data-aos="fade-left"
       >
@@ -113,31 +102,28 @@ exports[`App component renders App 1`] = `
         />
       </div>
       <div
+        class="messageRight"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Dani Cairns
+        </h3>
+        <p>
+          Whitney,
+        </p>
+        <p>
+          We've all been missing your energetic and talented presence :) Looking forward to partying with you at Alchemy headquarters once Alchemy the school is back in real life! You're the best!
+        </p>
+      </div>
+      <div
         class="messageLeft"
         data-aos="fade-right"
       >
         <h3>
-          From: (hello)
+          From: Marty Nelson
         </h3>
         <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
-        </p>
-      </div>
-      <div
-        class="messageRight"
-        data-aos="fade-left"
-      >
-        <h3>
-          From: (name)
-        </h3>
-        <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
+          Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
         </p>
       </div>
     </div>
