@@ -62,15 +62,19 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageLeft} data-aos="fade-right">
-            <h3>From: Marty Nelson</h3>
-            <p>
-              Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
-            </p>
-          </div>
           <div className={styles.messageCenter} data-aos="fade-left">
             <h3>From: Katie Perry</h3>
             <img src='../../../whitney-card.png' alt="card for Whitney" className={styles.card} />
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-right">
+            <h3>From: Dani Cairns</h3>
+            <p>
+              Whitney,
+            </p>
+            <p>
+              We've all been missing your energetic and talented presence :) Looking forward to partying with you at Alchemy headquarters once Alchemy the school is back in real life! You're the best!
+            </p>
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
@@ -80,7 +84,14 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageRight} data-aos="fade-left">
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Marty Nelson</h3>
+            <p>
+              Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
+            </p>
+          </div>
+
+          {/* <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>
               Message goes here
@@ -88,7 +99,7 @@ export default class App extends Component {
             <p>
               optional signature
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     )
