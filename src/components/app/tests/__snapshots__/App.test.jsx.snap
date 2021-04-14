@@ -106,7 +106,6 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
-<<<<<<< HEAD
           From: Dani Cairns
         </h3>
         <p>
@@ -114,12 +113,17 @@ exports[`App component renders App 1`] = `
         </p>
         <p>
           We've all been missing your energetic and talented presence :) Looking forward to partying with you at Alchemy headquarters once Alchemy the school is back in real life! You're the best!
-=======
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
           From: Jena Boehm
         </h3>
         <p>
           Whitney, we're rooting for you! I truly appreciate everything you do for Alchemy and the community. I'm wishing you a speedy and safe recovery, and am looking forward to seeing you around again. Rest well and take care of yourself!
->>>>>>> c74811d9d81228b5615157076b1fd97af3d1bc95
         </p>
       </div>
       <div

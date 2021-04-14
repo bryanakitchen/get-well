@@ -84,7 +84,7 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageRight} data-aos="fade-right">
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: Marty Nelson</h3>
             <p>
               Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
