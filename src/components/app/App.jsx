@@ -87,7 +87,7 @@ export default class App extends Component {
           <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: Marty Nelson</h3>
             <p>
-              Take your sweet time getting well! Here's to you—steadier, stronger and better every day.
+              Take your sweet time <b>getting well</b>! Here's to you—steadier, stronger and better every day.
             </p>
           </div>
 
@@ -98,6 +98,26 @@ export default class App extends Component {
             </p>
             <p>
               Take extra care, - Breeann B.
+            </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-left">
+            <h3>From: Rachel Donahue</h3>
+            <p>
+              Hey Whitney, I just wanted to say I'm thinking of you.  I hope that you get well soon!  Sending you lots of love, healing vibes, and well wishes &#60;&#51;
+            </p>
+            <p>
+              I would love to bring you some healing food, and I'm around if you need help with anything around the house.
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: (name)</h3>
+            <p>
+              Message goes here
+            </p>
+            <p>
+              optional signature
             </p>
           </div>
 
