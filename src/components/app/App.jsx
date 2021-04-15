@@ -20,7 +20,8 @@ export default class App extends Component {
             <img className={styles.whitneyImage} src={whitney} alt='whitney' />
           </div>
           <div className={styles.description}>
-            <p>Whitney, you've been on our minds. We wanted to send you some smiles and encouragement to get you through this difficult time.</p>
+            <p>Whitney, you've been on our minds. We wanted to send you some smiles and encouragement to get you through this difficult time.<br /><br />
+            Love, Alchemy Code Lab</p>
           </div>
         </div>
 
@@ -55,7 +56,7 @@ export default class App extends Component {
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: Shannon Rasimas</h3>
             <p>
-              Whitney, Sending you lots of love, hugs, and good vibes for a speedy recovery! Please take good care of you and always let me know if there's anything I can do to help. Seriously...please let me know!
+              Whitney, Sending you lots of love, hugs, and good vibes for a speedy recovery! Please take good care of you and always let me know if there's anything I can do to help. Seriously... please let me know!
             </p>
             <p>
               Hugs and love, Shannon
@@ -67,7 +68,7 @@ export default class App extends Component {
             <img src='../../../whitney-card.png' alt="card for Whitney" className={styles.card} />
           </div>
 
-          <div className={styles.messageRight} data-aos="fade-right">
+          <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: Dani Cairns</h3>
             <p>
               Whitney,
@@ -101,7 +102,7 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageLeft} data-aos="fade-left">
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: Rachel Donahue</h3>
             <p>
               Hey Whitney, I just wanted to say I'm thinking of you.  I hope that you get well soon!  Sending you lots of love, healing vibes, and well wishes &#60;&#51;
@@ -112,6 +113,23 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Donny Vu</h3>
+            <p>
+              Hope you get well soon (in a super safe recovery) and get back to kicking butts!
+            </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Jeff Irvine</h3>
+            <p>
+              Thinking of you Whitney. Hoping you feel better and healthier each day! There's so much love for you here at Alchemy. Would love to cook for you and your family whenever you need it.
+            </p>
+            <p>
+              - Jeff I
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>
               Message goes here
@@ -121,7 +139,7 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageLeft} data-aos="fade-left">
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
               Message goes here
@@ -141,7 +159,7 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageLeft} data-aos="fade-left">
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
               Message goes here
