@@ -227,6 +227,34 @@ exports[`App component renders App 1`] = `
         data-aos="fade-left"
       >
         <h3>
+          From: Erik Graciosa
+        </h3>
+        <p>
+          Whitney, sending good healing vibes to you. Make sure to ask for some ice cream.
+        </p>
+        <p>
+          -Erik
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: (name)
+        </h3>
+        <p>
+          Message goes here
+        </p>
+        <p>
+          optional signature
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
           From: (name)
         </h3>
         <p>
