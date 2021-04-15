@@ -39,6 +39,7 @@ body, .root {
     font-weight: bold;
     font-family: 'Kaushan Script', cursive;
     letter-spacing: .04em;
+    text-align: center;
 }
 
 .description {
