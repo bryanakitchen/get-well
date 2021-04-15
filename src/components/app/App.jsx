@@ -137,12 +137,12 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
-            <h3>From: (name)</h3>
+            <h3>From: Jillian Gibson</h3>
             <p>
-              Message goes here
+              Whitney, So sorry to hear that you aren’t well. Know that our thoughts and prayers are with you. Allow your self to rest and heal as much as possible - this has been an especially hard year and is yet to let up. If you need support in anyway please don’t hesitate to reach out. I have no doubt that the Alchemy community is here to support you. Sending all the positive healing energy your way.
             </p>
             <p>
-              optional signature
+              - Jillian
             </p>
           </div>
 
