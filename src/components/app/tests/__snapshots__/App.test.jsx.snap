@@ -261,13 +261,32 @@ exports[`App component renders App 1`] = `
         data-aos="fade-left"
       >
         <h3>
-          From: (name)
+          From: Ethan Pierce
         </h3>
         <p>
-          Message goes here
+          I am so sorry to hear you are not feeling well. Stay strong, we are here for you when you get back!
         </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Franco Ortega
+        </h3>
         <p>
-          optional signature
+          Hello Whitney. Sending you well wishes, and fingers crossed for a speedy recovery.
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Langston Beckwith-Stanley
+        </h3>
+        <p>
+          Hey Whitney, I hope for a speedy recovery and to see you on zoom soon.
         </p>
       </div>
       <div
