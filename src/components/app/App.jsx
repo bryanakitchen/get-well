@@ -171,12 +171,24 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: (name)</h3>
+            <h3>From: Ethan Pierce</h3>
             <p>
-              Message goes here
+              I am so sorry to hear you are not feeling well. Stay strong, we are here for you when you get back!
             </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Franco Ortega</h3>
             <p>
-              optional signature
+              Hello Whitney. Sending you well wishes, and fingers crossed for a speedy recovery.
+            </p>
+          </div>
+
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Langston Beckwith-Stanley</h3>
+            <p>
+              Hey Whitney, I hope for a speedy recovery and to see you on zoom soon.
             </p>
           </div>
 
@@ -189,7 +201,6 @@ export default class App extends Component {
               optional signature
             </p>
           </div>
-
 
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
