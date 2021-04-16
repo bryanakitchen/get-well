@@ -157,6 +157,20 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Megan Nelson</h3>
+            <p>
+              Dear Whitney,
+            </p><p>
+              We've been so blessed to have you join Alchemy! You bring beautiful energy, and it's been a joy to co-create together in admissions. We miss you so very much!
+            </p><p>
+              All of our prayers and well wishes &#60;&#51;
+            </p>
+            <p>
+              -Megan
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
             <p>
               Message goes here
@@ -165,6 +179,17 @@ export default class App extends Component {
               optional signature
             </p>
           </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: (name)</h3>
+            <p>
+              Message goes here
+            </p>
+            <p>
+              optional signature
+            </p>
+          </div>
+
 
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: (name)</h3>
