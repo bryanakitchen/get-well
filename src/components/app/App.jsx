@@ -193,6 +193,43 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Casey Warren</h3>
+            <p>
+              Whitney, sending you love and strength in this difficult time. So lucky to get to share a community with you. Rest up and get well &#60;&#51;
+            </p>
+            <p>
+              - Casey
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Josie Cantu</h3>
+            <p>
+              Whitney, You're such a great help at Alchemy! I hope you get well soon &#60;&#51;
+            </p>
+            <p>
+              -Josie Cantu
+            </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Cherno Badjan</h3>
+            <p>
+              Hey Whitney! I'm sorry to hear you are not feeling well. A day at a time and you'll be back to us in no time. We are here for you!
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: (name)</h3>
+            <p>
+              Message goes here
+            </p>
+            <p>
+              optional signature
+            </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
               Message goes here
