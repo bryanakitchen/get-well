@@ -85,6 +85,13 @@ export default class App extends Component {
             </p>
           </div>
 
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Sam Gerber</h3>
+            <p>
+              Whitney, best wishes and positive thoughts for you to feel better!
+            </p>
+          </div>
+
           <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: Marty Nelson</h3>
             <p>
@@ -109,13 +116,6 @@ export default class App extends Component {
             </p>
             <p>
               I would love to bring you some healing food, and I'm around if you need help with anything around the house.
-            </p>
-          </div>
-
-          <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: Donny Vu</h3>
-            <p>
-              Hope you get well soon (in a super safe recovery) and get back to kicking butts!
             </p>
           </div>
 
@@ -153,6 +153,13 @@ export default class App extends Component {
             </p>
             <p>
               -Erik
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Donny Vu</h3>
+            <p>
+              Hope you get well soon (in a super safe recovery) and get back to kicking butts!
             </p>
           </div>
 
@@ -212,20 +219,10 @@ export default class App extends Component {
             </p>
           </div>
 
-          <div className={styles.messageLeft} data-aos="fade-right">
+          <div className={styles.messageRight} data-aos="fade-right">
             <h3>From: Cherno Badjan</h3>
             <p>
               Hey Whitney! I'm sorry to hear you are not feeling well. A day at a time and you'll be back to us in no time. We are here for you!
-            </p>
-          </div>
-
-          <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: (name)</h3>
-            <p>
-              Message goes here
-            </p>
-            <p>
-              optional signature
             </p>
           </div>
 
