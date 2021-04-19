@@ -344,13 +344,10 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
-          From: (name)
+          From: Juli Vela
         </h3>
         <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
+          Hey Whitney! I'm so sorry you're feeling so unwell lately! We're all thinking of you and sending you good wishes and thoughts for a speedy recovery! Take your time, we'll all be here when you're back! &lt;3
         </p>
       </div>
       <div
