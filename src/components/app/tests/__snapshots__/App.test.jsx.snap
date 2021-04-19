@@ -130,17 +130,6 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
-        class="messageRight"
-        data-aos="fade-left"
-      >
-        <h3>
-          From: Sam Gerber
-        </h3>
-        <p>
-          Whitney, best wishes and positive thoughts for you to feel better!
-        </p>
-      </div>
-      <div
         class="messageLeft"
         data-aos="fade-right"
       >
@@ -160,13 +149,10 @@ exports[`App component renders App 1`] = `
         data-aos="fade-left"
       >
         <h3>
-          From: Breeann Bolinsky
+          From: Sam Gerber
         </h3>
         <p>
-          Hey Whitney! I’m wishing you the most positive thoughts and hope that you have a speedy recovery and can focus on healing.  The entire Alchemy team definitely feels incomplete without having you feeling fully yourself, and will feel complete when you feel better too! Hope to see you around the Zoom rooms super soon!
-        </p>
-        <p>
-          Take extra care, - Breeann B.
+          Whitney, best wishes and positive thoughts for you to feel better!
         </p>
       </div>
       <div
@@ -181,6 +167,20 @@ exports[`App component renders App 1`] = `
         </p>
         <p>
           I would love to bring you some healing food, and I'm around if you need help with anything around the house.
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Breeann Bolinsky
+        </h3>
+        <p>
+          Hey Whitney! I’m wishing you the most positive thoughts and hope that you have a speedy recovery and can focus on healing.  The entire Alchemy team definitely feels incomplete without having you feeling fully yourself, and will feel complete when you feel better too! Hope to see you around the Zoom rooms super soon!
+        </p>
+        <p>
+          Take extra care, - Breeann B.
         </p>
       </div>
       <div
@@ -329,6 +329,17 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Juli Vela
+        </h3>
+        <p>
+          Hey Whitney! I'm so sorry you're feeling so unwell lately! We're all thinking of you and sending you good wishes and thoughts for a speedy recovery! Take your time, we'll all be here when you're back! &lt;3
+        </p>
+      </div>
+      <div
         class="messageRight"
         data-aos="fade-right"
       >
@@ -340,14 +351,28 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Katilyn Wiggins
+        </h3>
+        <p>
+          Hi Whitney, wishing you a peaceful and easy recovery. Thankful to share a home with you at Alchemy! See you soon.
+        </p>
+        <p>
+          - Katilyn
+        </p>
+      </div>
+      <div
         class="messageLeft"
         data-aos="fade-right"
       >
         <h3>
-          From: Juli Vela
+          From: KB
         </h3>
         <p>
-          Hey Whitney! I'm so sorry you're feeling so unwell lately! We're all thinking of you and sending you good wishes and thoughts for a speedy recovery! Take your time, we'll all be here when you're back! &lt;3
+          Wishing you a quick and safe recovery. I can't wait to meet you in person someday!
         </p>
       </div>
       <div
