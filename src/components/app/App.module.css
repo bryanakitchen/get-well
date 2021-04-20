@@ -111,3 +111,31 @@ body, .root {
 .card {
     width: 100%;
 }
+
+@media (max-width: 667px) {
+    
+    .home {
+        width: 85vw;
+    }
+
+    .title {
+        font-size: 2.2em;
+    }
+
+    .description {
+        width: 75%;
+    }
+    
+    .messagesContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;    
+    }
+
+    .messageLeft, .messageRight, .messageCenter {
+        float: none;
+        width: 70vw;
+        margin: 20px 0px;
+    }
+}

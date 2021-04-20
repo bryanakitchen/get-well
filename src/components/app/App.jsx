@@ -3,8 +3,6 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import styles from './App.module.css';
 import whitney from '../../../public/whitney.jpeg'
-import alchemyLogo from '../../../public/alchemy-logo-white-bg.png'
-// import Header from '../header/Header';
 
 AOS.init({ duration: 800 })
 
