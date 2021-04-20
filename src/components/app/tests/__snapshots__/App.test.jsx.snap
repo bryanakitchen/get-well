@@ -427,6 +427,72 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
+          From: Anthony Rosario
+        </h3>
+        <p>
+          I can't wait to see you back at an Alchemy zoom hang out again. Sending you nothing but the chillest vibes!
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Cameron Zimmerman
+        </h3>
+        <p>
+          Thinking of you Whitney! I hope you have a speedy recovery.
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Erich Sauer
+        </h3>
+        <p>
+          Whitney - sending healing vibes your way and wishing you a speedy recovery
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Edmond Zhan
+        </h3>
+        <p>
+          Hey Whitney, I heard that you haven't been feeling well. I wanted to let you know that we're all thinking of you and hope that you get well soon!
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Kat Sauma
+        </h3>
+        <p>
+          Hey hey Whitney! Thinking of you and sending warmth, strength, rest, and faith through these trying times. You are sincerely valued in this community and I am so grateful to have met you this year. Your energy and spirit are loved and needed here! Wishing you all the best, take time for you and we will be here.
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
+          From: Dylan White
+        </h3>
+        <p>
+          Feel better soon Whitney! I am looking forward to getting to know you better as we progress in career track. Sending a large array of good thoughts your way!
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
           From: (name)
         </h3>
         <p>
