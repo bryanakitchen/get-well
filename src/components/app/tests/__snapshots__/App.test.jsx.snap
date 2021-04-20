@@ -380,6 +380,34 @@ exports[`App component renders App 1`] = `
         data-aos="fade-left"
       >
         <h3>
+          From: Cierra McDonald
+        </h3>
+        <p>
+          Hi Whitney, I'm so sorry to hear that you haven't been feeling well recently.  Sending you love, well wishes and hopes for a quick recovery.  Thank you for all that you do for the Alchemy community, please give yourself all the time and space to heal, we are all rooting for you! Get well soon!
+        </p>
+        <p>
+          - Cierra &lt;3
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: (name)
+        </h3>
+        <p>
+          Message goes here
+        </p>
+        <p>
+          optional signature
+        </p>
+      </div>
+      <div
+        class="messageRight"
+        data-aos="fade-left"
+      >
+        <h3>
           From: (name)
         </h3>
         <p>
