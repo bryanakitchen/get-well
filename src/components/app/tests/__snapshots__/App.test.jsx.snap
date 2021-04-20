@@ -376,6 +376,17 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
+        class="messageLeft"
+        data-aos="fade-right"
+      >
+        <h3>
+          From: Minh Ngo
+        </h3>
+        <p>
+          Hey Whitney! Hoping for an easy, speedy recovery. You are super awesome and can't wait for you to join us back at Alchemy!
+        </p>
+      </div>
+      <div
         class="messageRight"
         data-aos="fade-left"
       >
@@ -394,18 +405,26 @@ exports[`App component renders App 1`] = `
         data-aos="fade-right"
       >
         <h3>
-          From: (name)
+          From: Stephen Tamiesie
         </h3>
         <p>
-          Message goes here
-        </p>
-        <p>
-          optional signature
+          Sending you all the positive vibes in the world, Whitney!
         </p>
       </div>
       <div
         class="messageRight"
         data-aos="fade-left"
+      >
+        <h3>
+          From: Patrick Hrabos
+        </h3>
+        <p>
+          Whitney, sending you healing vibes for a speedy recovery. Hope you get better soon!
+        </p>
+      </div>
+      <div
+        class="messageLeft"
+        data-aos="fade-right"
       >
         <h3>
           From: (name)
@@ -418,8 +437,8 @@ exports[`App component renders App 1`] = `
         </p>
       </div>
       <div
-        class="messageLeft"
-        data-aos="fade-right"
+        class="messageRight"
+        data-aos="fade-left"
       >
         <h3>
           From: (name)
