@@ -252,6 +252,13 @@ export default class App extends Component {
             </p>
           </div>
 
+          <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Minh Ngo</h3>
+            <p>
+              Hey Whitney! Hoping for an easy, speedy recovery. You are super awesome and can't wait for you to join us back at Alchemy!
+            </p>
+          </div>
+
           <div className={styles.messageRight} data-aos="fade-left">
             <h3>From: Cierra McDonald</h3>
             <p>
@@ -263,6 +270,20 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageLeft} data-aos="fade-right">
+            <h3>From: Stephen Tamiesie</h3>
+            <p>
+              Sending you all the positive vibes in the world, Whitney!
+            </p>
+          </div>
+
+          <div className={styles.messageRight} data-aos="fade-left">
+            <h3>From: Patrick Hrabos</h3>
+            <p>
+              Whitney, sending you healing vibes for a speedy recovery. Hope you get better soon!
+            </p>
+          </div>
+
+          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
               Message goes here
@@ -273,16 +294,6 @@ export default class App extends Component {
           </div>
 
           <div className={styles.messageRight} data-aos="fade-left">
-            <h3>From: (name)</h3>
-            <p>
-              Message goes here
-            </p>
-            <p>
-              optional signature
-            </p>
-          </div>
-
-          <div className={styles.messageLeft} data-aos="fade-right">
             <h3>From: (name)</h3>
             <p>
               Message goes here
