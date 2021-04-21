@@ -49,8 +49,9 @@ body, .root {
 }
 
 .messagesContainer {
-    width: 70%;
+    width: 75%;
     margin-top: 2em;
+    height: max-content;
 }
 
 .messageLeft {
@@ -110,6 +111,17 @@ body, .root {
 
 .card {
     width: 100%;
+}
+
+@media (min-width: 1500px) {
+    .home {
+        width: 60%;
+    }
+
+    .messagesContainer {
+        width: 50%;
+        height: max-content;
+    }
 }
 
 @media (max-width: 667px) {
